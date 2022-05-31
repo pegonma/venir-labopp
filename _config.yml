@@ -26,3 +26,5 @@ kramdown:
 
 exclude:
   - Work
+
+theme: jekyll-theme-minimal
