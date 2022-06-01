@@ -108,12 +108,7 @@ Walk along the metro (skytrain here) towards (south) the next station ("4 Canton
 
 Paul Painlevé lab and the Math department occupy two buildings, M2 and M3, which are located just behind the building M1.
 
-- **laboratory office :** building M2, 1<sup>st</sup> floor
-- **salle de réunion :** building M2, 1<sup>st</sup> floor
-- **salle Kampé de Fériet :** building M2, 1<sup>st</sup> floor
-- **salle Duhem :** building M3, 1<sup>st</sup> floor
-- **salle de visioconférence :** building M3, 2<sup>nd</sup> floor
-- **salle des séminaires :** building M3, 3<sup>rd</sup> floor
+- **salle de réunion (conference room) :** building M2, 1<sup>st</sup> floor
 
 
 {::comment}
