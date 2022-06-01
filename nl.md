@@ -108,12 +108,7 @@ Volg de metrobuis (die hier op palen loopt) in zuidelijke richting naar het volg
 
 Het Laboratoire en de UFR bevinden zich in twee gebouwen (M2 en M3) die direct achter het M1 staan.
 
-- **secretariaat van het Laboratoire :** gebouw M2, eerste verdieping
-- **salle de réunion :** gebouw M2, eerste verdieping
-- **salle Kampé de Fériet :** gebouw M2, eerste verdieping
-- **salle Duhem :** gebouw M3, eerste verdieping
-- **salle de visioconférence :** gebouw M3, tweede verdieping
-- **salle des séminaires :** gebouw M3, derde verdieping
+- **salle de réunion (conference room) :** gebouw M2, eerste verdieping
 
 {::comment}
 ====================== De links ==========================
