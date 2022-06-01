@@ -110,12 +110,7 @@ _リール・ヨーロッパ駅からメトロ1号線へ行くには,‘Metro’
 
 ポール・パンルヴェ研究所と数学科は, そのM1棟のちょうど背後にあるM2棟とM3棟です.
 
-- **研究所事務所** : M2棟1階
-- **salle de réunion** : M2棟1階
-- **salle Kampé de Fériet** : M2棟1階
-- **salle Duhem** : M3棟1階
-- **salle de visioconférence** : M3棟2階
-- **salle des séminaires** : M3棟3階
+- **salle de réunion (conference room)** : M2棟1階
 
 
 {::comment}
