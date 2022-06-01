@@ -1,9 +1,9 @@
 # Site settings
 title: Comment venir au laboratoire de mathématiques Paul Painlevé de Lille
-email: kroum.tzanev@math.univ-lille1.fr
-url: "https://ktzanev.github.io" # the base hostname & protocol for your site
+email: marc.pegon@univ-lille.fr
+url: "https://pegonma.github.io" # the base hostname & protocol for your site
 github:
-  user : ktzanev
+  user : pegonma
   branch: gh-pages
 baseurl: "/venir-labopp/" # the subpath of your site, e.g. /blog/
 address: > #   L'adresse du laboratoire
