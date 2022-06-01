@@ -107,12 +107,7 @@ Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Ca
 
 Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden, M2 und M3, direkt hinter dem Gebäude M1.
 
-- **Labor Sekretariat :** Gebäude M2, 1. Stock
-- **salle de réunion :** Gebäude M2, 1. Stock
-- **salle Kampé de Fériet :** Gebäude M2, 1. Stock
-- **salle Duhem :** Gebäude M3, 1. Stock
-- **salle de visioconférence :** Gebäude M3, 2. Stock
-- **salle des séminaires :** Gebäude M3, 3. Stock
+- **salle de réunion (conference room) :** Gebäude M2, 1. Stock
 
 
 {::comment}
