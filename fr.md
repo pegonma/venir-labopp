@@ -107,7 +107,7 @@ Longer le métro (qui est aérien à cet endroit) en direction (sud) de la stati
 
 Le laboratoire et l'UFR occupent deux bâtiments, M2 et M3, qui sont situés juste derrière le bâtiment M1.
 
-- **salle de séminaire :** bâtiment M2, 1<sup>er</sup> étage
+- **salle de réunion (conférence) :** bâtiment M2, 1<sup>er</sup> étage
 
 
 {::comment}
