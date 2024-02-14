@@ -109,12 +109,12 @@ Walk along the metro (skytrain here) towards (south) the next station ("4 Canton
 
 [![4cantons-m2]{:.map title="Map to get from 4 Cantons station to M2 building"}][4cantons-m2]
 
-Go along the metro (which is aerial at this place) in north direction (towards the "Cité Scientifique" station) until you see on your left the M1 building, recognizable by the big radio antenna on its roof, and the M2 building on your right.
+Go along the metro (which is aerial at this place) in north direction (towards the "Cité Scientifique" station) until you see the M1 building on your left, recognizable by the big radio antenna on its roof, and the M2 building on your right.
 
 ## Polytech Lille
 {: #lille-l }
 
-The building of Polytech Lille is about a 100 meters straight ahead after passing through the M1 and M2 buildings.
+The Polytech Lille building is about 100 meters straight ahead, following the M1 and M2 buildings.
 
 - **Amphi Chappe (conference room) :** in the great hall, ground floor
 - **Room D'Arsonval (coffee breaks) :** in the B wing, ground floor
