@@ -1,16 +1,16 @@
 # venir-labopp
 
-Comment venir au laboratoire de mathématiques Paul Painlevé de Lille
+Comment venir à Polytech Lille. Ceci est un fork de [ktzanev.github.io/venir-labopp](https://ktzanev.github.io/venir-labopp).
 
 ## adresse web
 
 La page principale se trouve à l'adresse :
 
-* [ktzanev.github.io/venir-labopp](https://ktzanev.github.io/venir-labopp/)
+* [pegonma.github.io/venir-polytech](https://pegonma.github.io/venir-polytech/)
 
 Mais vous pouvez aussi utiliser des liens directs comme par exemple :
 
-* [ktzanev.github.io/venir-labopp/fr/#lille-g](https://ktzanev.github.io/venir-labopp/fr/#lille-g)
+* [pegonma.github.io/venir-polytech/fr/#lille-g](https://pegonma.github.io/venir-polytech/fr/#lille-g)
 
 qui indique en français (`/fr/`) comment venir des gares de Lille (`#lille-g`).
 
@@ -37,7 +37,7 @@ Puis il suffit de cliquer sur `modifier` du fichier que vous voulez modifier.
 GitHub créer une copie dans votre compte que vous pouvez modifier librement.
 Une fois votre travail terminé, vous pouvez faire un "Push request" pour que j'intègre vos modifications au projet.
 
-Vous pouvez également, au lieu de faire la correction directement, signaler le problème dans la section [Issues](https://github.com/ktzanev/venir-labopp/issues).
+Vous pouvez également, au lieu de faire la correction directement, signaler le problème dans la section [Issues](https://github.com/pegonma/venir-polytech/issues).
 
 Merci d'avance pour votre aide.
 
