@@ -1,6 +1,6 @@
 ---
 title: Comment venir de ...
-description: Indique comment se rendre au laboratoire de mathématiques Paul Painlevé de Lille à partir de divers points de départ.
+description: Indique comment se rendre à Polytech Lille à partir de divers points de départ.
 layout: goto
 lang: fr
 edit: éditer cette page
