@@ -101,21 +101,15 @@ Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard
 
 [![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
 
-Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante (« 4 Cantons ») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
+Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante (« 4 Cantons ») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique (la bibliothèque universitaire) : vous devez apercevoir sur votre gauche le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit, et sur votre droite le bâtiment M2. 
 
-## Université de Lille, <i class="icon-lille-metro"></i> métro « 4 Cantons (terminus) »
-{: #lille-4cantons data-next="lille-l" }
-
-[![4cantons-m2]{:.map title="Plan pour venir de la station 4 Cantons au bâtiment M2"}][4cantons-m2]
-
-Longer le métro (qui est aérien à cet endroit) en direction nord (vers la station « Cité Scientifique ») jusqu'à apercevoir sur votre gauche le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit. Les bâtiments M2 et M3 sont « derrière » le bâtiment M1, par rapport au métro.
-
-## Laboratoire Paul Painlevé et UFR de Mathématiques
+## Polytech Lille
 {: #lille-l }
 
-Le laboratoire et l'UFR occupent deux bâtiments, M2 et M3, qui sont situés juste derrière le bâtiment M1.
+Le bâtiment de l'école d'ingénieurs Polytech Lille se trouve à environ 100m tout droit après être passé entre les bâtiments M1 et M2.
 
-- **salle de réunion (conférence) :** bâtiment M2, 1<sup>er</sup> étage
+- **Amphi Chappe (conférences) :** dans le grand hall, rez-de-chaussée
+- **Salle d'Arsonval (pauses café) :** dans l'aile B, rez-chaussée
 
 
 {::comment}
