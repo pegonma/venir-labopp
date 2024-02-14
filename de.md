@@ -1,6 +1,6 @@
 ---
 title: Wie komme ich von...
-description: Erklärt, wie man aus verschiedenen Ausgangspünkten zum Mathematiklabor Paul Painlevé an der Universität von Lille kommt.
+description: Zeigt den Weg zur Ingenieursschule 'Polytech Lille' von verschiedenen Ausgangspunkten aus.
 layout: goto
 lang: de
 edit: diese Seite bearbeiten
@@ -109,14 +109,14 @@ Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Ca
 
 [![4cantons-m2]{:.map title="Plan, um von der Station 4 Cantons zum M2-Gebäude zu gelangen"}][4cantons-m2]
 
-Gehen Sie entlang der U-Bahn (die an dieser Stelle oberirdisch verläuft) in Richtung Norden (zur Station "Cité Scientifique"), bis Sie links das Gebäude M1 sehen, das Sie an der großen Radioantenne auf seinem Dach erkennen können. Die Gebäude M2 und M3 befinden sich in Bezug auf die U-Bahn "hinter" dem Gebäude M1.
+Gehen Sie entlang der U-Bahn (die an dieser Stelle oberirdisch verläuft) in Richtung Norden (zur Station "Cité Scientifique"),  bis Sie das Gebäude M1 auf Ihrer linken Seite sehen, erkennbar an der großen Funkantenne auf dem Dach, und das Gebäude M2 auf Ihrer rechten Seite.
 
 ## Paul Painlevé Labor und Mathe-Abteilung
 {: #lille-l }
 
-Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden, M2 und M3, direkt hinter dem Gebäude M1.
+Das Gebäude von Polytech Lille befindet sich etwa 100 Meter geradeaus, nachdem Sie die Gebäude M1 und M2 passiert haben.
 
-- **salle de réunion (conference room) :** Gebäude M2, 1. Stock
+- **Amphi Chappe de réunion (conference room) :** Gebäude M2, 1. Stock
 
 
 {::comment}
