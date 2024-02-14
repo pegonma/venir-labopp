@@ -5,7 +5,7 @@ url: "https://pegonma.github.io" # the base hostname & protocol for your site
 github:
   user : pegonma
   branch: gh-pages
-baseurl: "/venir-labopp/" # the subpath of your site, e.g. /blog/
+baseurl: "/venir-polytech/" # the subpath of your site, e.g. /blog/
 address: > #   L'adresse du laboratoire
   bâtiment M2<br>
   Cité Scientifique<br>
