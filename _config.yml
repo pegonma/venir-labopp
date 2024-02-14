@@ -6,11 +6,12 @@ github:
   user : pegonma
   branch: gh-pages
 baseurl: "/venir-polytech/" # the subpath of your site, e.g. /blog/
-address: > #   L'adresse du laboratoire
-  bâtiment M2<br>
+address: > #   L'adresse de Polytech Lille
+  Polytech Lille<br>
   Cité Scientifique<br>
+  Avenue Paul Langevin<br>
   59650 Villeneuve-d'Ascq
-gps: ["50.609","3.138"]
+gps: ["50.60786092986147", "3.1365825353448193"]
 
 # libraries
 jqueryurl: "https://code.jquery.com/" # the path to jQuery
