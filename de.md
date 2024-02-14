@@ -116,7 +116,8 @@ Gehen Sie entlang der U-Bahn (die an dieser Stelle oberirdisch verläuft) in Ric
 
 Das Gebäude von Polytech Lille befindet sich etwa 100 Meter geradeaus, nachdem Sie die Gebäude M1 und M2 passiert haben.
 
-- **Amphi Chappe de réunion (conference room) :** Gebäude M2, 1. Stock
+- **Amphi Chappe (Konferenzraum) :** Hauptsaal, Erdgeschoss
+- **Raum D'Arsonval (Kaffeepausen):** B-Flügel des Gebäudes, Erdgeschoss
 
 
 {::comment}
