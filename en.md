@@ -1,6 +1,6 @@
 ---
 title: How to come from ...
-description: Indicates how to get to the math lab "Paul Painlevé" of University of Lille from various starting points.
+description: Indicates how to get to the school of engineering "Polytech Lille" from various starting points.
 layout: goto
 lang: en
 edit: edit this page
@@ -109,14 +109,15 @@ Walk along the metro (skytrain here) towards (south) the next station ("4 Canton
 
 [![4cantons-m2]{:.map title="Map to get from 4 Cantons station to M2 building"}][4cantons-m2]
 
-Go along the metro (which is aerial at this place) in north direction (towards the "Cité Scientifique" station) until you see on your left the M1 building, recognizable by the big radio antenna on its roof. The M2 and M3 buildings are "behind" the M1 building, with respect to the metro.
+Go along the metro (which is aerial at this place) in north direction (towards the "Cité Scientifique" station) until you see on your left the M1 building, recognizable by the big radio antenna on its roof, and the M2 building on your right.
 
-## Paul Painlevé lab and the Math department
+## Polytech Lille
 {: #lille-l }
 
-Paul Painlevé lab and the Math department occupy two buildings, M2 and M3, which are located just behind the building M1.
+The building of Polytech Lille is about a 100 meters straight ahead after passing through the M1 and M2 buildings.
 
-- **salle de réunion (conference room) :** building M2, 1<sup>st</sup> floor
+- **Amphi Chappe (conference room) :** in the great hall, ground floor
+- **Room D'Arsonval (coffee breaks) :** in the B wing, ground floor
 
 
 {::comment}
