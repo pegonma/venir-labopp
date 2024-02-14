@@ -1,6 +1,6 @@
 ---
 title: Comment venir - Choix de langue
-description: Permet de choisir la langue dans laquelle vont être données les instructions comment se rendre au laboratoire de mathématiques Paul Painlevé de Lille.
+description: Permet de choisir la langue dans laquelle vont être données les instructions comment se rendre à l'école d'ingénieurs Polytech Lille.
 layout: default
 ---
 
