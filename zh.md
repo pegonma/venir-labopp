@@ -1,6 +1,6 @@
 ---
 title: 如何来
-description: 指明如何从不同的地方来里尔一大数学Paul Painlevé 实验室。
+description: 指示从不同起点前往工程学院 'Polytech Lille' 的方法。
 layout: goto
 lang: zh
 edit : 编辑此页
@@ -108,14 +108,15 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 
 [![4cantons-m2]{:.map title="从4 Cantons站到M2大楼的地图"}][4cantons-m2]
 
-沿着地铁（此时在头顶上）向北走（往 "科学城 "站方向），直到你看到左边的M1大楼，可以通过其屋顶上的大型无线电天线识别。M2和M3大楼在M1大楼的 "后面"，与地铁的关系。
+沿着地铁（在这个地方是高架的）向北方向前进（朝着“Cité Scientifique”站），直到你看到左侧的M1大楼，其屋顶上有一座大型无线电天线，右侧是M2大楼
 
-## Paul Painlevé 实验室和数学学院
+## Polytech Lille
 {: #lille-l }
 
-实验室和数学学院有两栋楼：M2和M3，位于M1后面。
+Polytech Lille大楼直行约100米，跟随M1和M2大楼。
 
-- **réunion 议室 (conference room) :** M2, 1楼。
+- **大礼堂 Chappe (会议室) :** 主厅, 底楼
+- **会议室 D'Arsonval (咖啡休息时间) :** 建筑物B区, 底楼"
 
 
 {::comment}
