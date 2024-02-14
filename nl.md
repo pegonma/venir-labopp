@@ -1,6 +1,6 @@
 ---
 title: Hoe kom ik er vanuit ...
-description: Geeft aan hoe men vanaf verschillende vertrekpunten naar het 'laboratoire de mathématiques Paul Painlevé de Lille' komt..
+description: Geeft aan hoe je naar de ingenieursschool 'Polytech Lille' kunt komen vanaf verschillende startpunten.
 layout: goto
 lang: nl
 edit: bewerk deze pagina
@@ -109,14 +109,15 @@ Volg de metrobuis (die hier op palen loopt) in zuidelijke richting naar het volg
 
 [![4cantons-m2]{:.map title="Kaart van station 4 Cantons naar gebouw M2"}][4cantons-m2]
 
-Volg de metro (die op dit punt boven het hoofd hangt) in noordelijke richting (naar het station "Cité Scientifique") tot u links het M1-gebouw ziet, herkenbaar aan de grote radio-antenne op het dak. De gebouwen M2 en M3 liggen "achter" het M1-gebouw, ten opzichte van de metro.
+Volg de metro (die op dit punt boven het hoofd hangt) in noordelijke richting (naar het station "Cité Scientifique"). Blijf doorgaan totdat je het M1-gebouw aan je linkerkant ziet, herkenbaar aan de grote radioantenne op het dak, en het M2-gebouw aan je rechterkant.
 
-## Het 'Laboratoire Paul Painlevé' en de 'UFR de Mathématiques'
+## Polytech Lille
 {: #lille-l }
 
-Het Laboratoire en de UFR bevinden zich in twee gebouwen (M2 en M3) die direct achter het M1 staan.
+Het Polytech Lille-gebouw bevindt zich ongeveer 100 meter recht vooruit, volgend op de M1- en M2-gebouwen.
 
-- **salle de réunion (conference room) :** gebouw M2, eerste verdieping
+- **Amfitheater Chappte (Vergaderruimte) :** Hoofdzaal, Begane grond
+- **Vergaderruimte (Koffiepauzes) :** B-vleugel van het gebouw, Begane grond
 
 {::comment}
 ====================== De links ==========================
