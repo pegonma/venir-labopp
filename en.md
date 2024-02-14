@@ -116,8 +116,8 @@ Go along the metro (which is aerial at this place) in north direction (towards t
 
 The Polytech Lille building is about 100 meters straight ahead, following the M1 and M2 buildings.
 
-- **Amphi Chappe (conference room) :** in the great hall, ground floor
-- **Room D'Arsonval (coffee breaks) :** in the B wing, ground floor
+- **Amphi Chappe (conference room) :** main hall, ground floor
+- **Room D'Arsonval (coffee breaks) :** B wing, ground floor
 
 
 {::comment}
