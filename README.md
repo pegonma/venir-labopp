@@ -1,6 +1,6 @@
 # venir-labopp
 
-Comment venir à Polytech Lille. Ceci est un fork de [ktzanev.github.io/venir-labopp](https://ktzanev.github.io/venir-labopp).
+Comment venir à Polytech Lille. Ceci est un fork de [ktzanev.github.io/venir-labopp](https://github.com/ktzanev/venir-labopp).
 
 ## adresse web
 
