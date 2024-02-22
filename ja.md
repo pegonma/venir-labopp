@@ -102,14 +102,14 @@ _リール・ヨーロッパ駅からメトロ1号線へ行くには,‘Metro’
 ## リール大学, <i class="icon-lille-metro"></i> メトロ駅 Cité Scientifique
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="メトロ駅からM2棟までの道程"}][metro-m2]
+[![metro-citesci-polytech]{:.map title="メトロ駅からPolytech棟までの道程"}][metro-citesci-polytech]
 
 大きな円筒形の建物が左手に見えるまでメトロ線沿いに次の駅（4 Cantons）の方向（南）に向かって歩いて下さい. ここまで来ると, 屋根に大きな無線アンテナのようなものがあるM1棟が前方右手に見えます.
 
 ## リール大学, <i class="icon-lille-metro"></i> メトロ駅 Cité Scientifique
 {: #lille-4cantons data-next="lille-l" }
 
-[![4cantons-m2]{:.map title="4カントンの駅からM2ビルまでの地図"}][4cantons-m2]
+[![metro-4cantons-polytech]{:.map title="4カントンの駅からPolytechビルまでの地図"}][metro-4cantons-polytech]
 
 地下鉄（この時点では高架線）を北上し、「Cité Scientifique」駅方面に進むと、左手にM1ビルが見えてきます（屋根に大きな無線アンテナがあるのが目印です）。左にM1ビルが見えるまで続けてください。そのビルは屋根に大きな無線アンテナで識別でき、右側にM2ビルがあります。
 
@@ -139,6 +139,6 @@ Polytech Lilleの建物は、M1ビルとM2ビルに続いて約100メートル�
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
 [lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
-[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
-[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
+[metro-citesci-polytech]:{{ site.baseurl }}assets/images/maps/metro-citesci-polytech.png
+[metro-4cantons-polytech]:{{ site.baseurl }}assets/images/maps/metro-4cantons-polytech.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
