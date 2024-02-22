@@ -7,7 +7,7 @@ edit: diese Seite bearbeiten
 modified:
   text: "Seite aktualisiert:"
   format: "%d.%m.%Y"
-  date: 2016-09-21
+  date: 2024-02-22
 ---
 
 # <i class="cityicon-bruxelles"></i>Brüssel
