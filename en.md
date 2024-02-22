@@ -100,7 +100,7 @@ Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it'
 ## University of Lille, <i class="icon-lille-metro"></i> « Cité Scientifique » metro station
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]
+[![metro_citesci_m2]{:.map title="Map how to come from the metro to the M2 building"}][metro_citesci_m2]
 
 Walk along the metro (skytrain here) towards (south) the next station ("4 Cantons") until the large cylindrical building (the University Library) appears on your left. At this point you should see the M1 building on your right recognisable by the large radio transmission antenna on its roof.
 
