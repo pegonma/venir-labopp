@@ -100,14 +100,14 @@ Na zo'n 12 minuten uitstappen op het station 'Cité Scientifique Pr Gabillard' (
 ## Universiteit van Lille, <i class="icon-lille-metro"></i> metrostation 'Cité Scientifique'
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
+[![metro-citesci-polytech]{:.map title="Kaart van station Cité Scientifique naar gebouw Polytech"}][metro-citesci-polytech]
 
 Volg de metrobuis (die hier op palen loopt) in zuidelijke richting naar het volgende (laatste) metrostation '4 Cantons'. U komt dan langs een groot rond gebouw (de Universitaire Bibliotheek, in renovatie) aan Uw linkerhand; een weinig verder bevindt zich aan Uw rechterhand het gebouw M1, herkenbaar aan de hoge radioantenne op het dak.
 
 ## Universiteit van Lille, <i class="icon-lille-metro"></i> metrostation '4 Cantons'
 {: #lille-4cantons data-next="lille-l" }
 
-[![4cantons-m2]{:.map title="Kaart van station 4 Cantons naar gebouw M2"}][4cantons-m2]
+[![metro-4cantons-polytech]{:.map title="Kaart van station 4 Cantons naar gebouw Polytech"}][metro-4cantons-polytech]
 
 Volg de metro (die op dit punt boven het hoofd hangt) in noordelijke richting (naar het station "Cité Scientifique"). Blijf doorgaan totdat je het M1-gebouw aan je linkerkant ziet, herkenbaar aan de grote radioantenne op het dak, en het M2-gebouw aan je rechterkant.
 
@@ -137,6 +137,6 @@ Het Polytech Lille-gebouw bevindt zich ongeveer 100 meter recht vooruit, volgend
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
 [lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
-[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
-[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
+[metro-citesci-polytech]:{{ site.baseurl }}assets/images/maps/metro-citesci-polytech.png
+[metro-4cantons-polytech]:{{ site.baseurl }}assets/images/maps/metro-4cantons-polytech.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
