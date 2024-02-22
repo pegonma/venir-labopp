@@ -7,7 +7,7 @@ edit: このページを編集する
 modified:
   text: 最終修正日：
   format: "%Y年%m月%d日"
-  date: 2016-09-22
+  date: 2024-02-22
 ---
 
 # <i class="cityicon-bruxelles"></i> ブリュッセル
