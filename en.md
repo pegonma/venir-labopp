@@ -100,14 +100,14 @@ Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it'
 ## University of Lille, <i class="icon-lille-metro"></i> « Cité Scientifique » metro station
 {: #lille-u data-next="lille-l" }
 
-[![metro-citesci-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-citesci-m2]
+[![metro-citesci-polytech]{:.map title="Map how to come from the metro to Polytech"}][metro-citesci-polytech]
 
 Walk along the metro (skytrain here) towards (south) the next station ("4 Cantons") until the large cylindrical building (the University Library) appears on your left. At this point you should see the M1 building on your right recognisable by the large radio transmission antenna on its roof.
 
 ## Université de Lille, <i class="icon-lille-metro"></i>« 4 Cantons » metro terminal
 {: #lille-4cantons data-next="lille-l" }
 
-[![4cantons-m2]{:.map title="Map to get from 4 Cantons station to M2 building"}][4cantons-m2]
+[![metro-4cantons-polytech]{:.map title="Map to get from 4 Cantons station to Polytech"}][metro-4cantons-polytech]
 
 Go along the metro (which is aerial at this place) in north direction (towards the "Cité Scientifique" station) until you see the M1 building on your left, recognizable by the big radio antenna on its roof, and the M2 building on your right.
 
@@ -138,6 +138,6 @@ The Polytech Lille building is about 100 meters straight ahead, following the M1
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
 [lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
-[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
-[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
+[metro-citesci-polytech]:{{ site.baseurl }}assets/images/maps/metro-citesci-polytech.png
+[metro-4cantons-polytech]:{{ site.baseurl }}assets/images/maps/metro-4cantons-polytech.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
