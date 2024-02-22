@@ -99,14 +99,14 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 ## 里尔大学，<i class="icon-lille-metro"></i>地铁 "Cité Scientifique"
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="从地铁到M2楼的地图"}][metro-m2]
+[![metro-citesci-polytech]{:.map title="从地铁到Polytech楼的地图"}][metro-citesci-polytech]
 
 朝南沿着地铁继续前进的方向走（地铁轨道是凌空的，可在轨道下面一直走），然后在左边能看到一个很大的圆柱形建筑，也就是学校的图书馆，然后就能看到右手边有一个建筑顶部有很高的天线，那就是M1楼。
 
 ## 里尔大学，<i class="icon-lille-metro"></i>地铁 "4 Cantons"
 {: #lille-4cantons data-next="lille-l" }
 
-[![4cantons-m2]{:.map title="从4 Cantons站到M2大楼的地图"}][4cantons-m2]
+[![metro-4cantons-polytech]{:.map title="从4 Cantons站到Polytech大楼的地图"}][metro-4cantons-polytech]
 
 沿着地铁（在这个地方是高架的）向北方向前进（朝着“Cité Scientifique”站），直到你看到左侧的M1大楼，其屋顶上有一座大型无线电天线，右侧是M2大楼
 
@@ -137,6 +137,6 @@ Polytech Lille大楼直行约100米，跟随M1和M2大楼。
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
 [lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
-[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
-[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
+[metro-citesci-polytech]:{{ site.baseurl }}assets/images/maps/metro-citesci-polytech.png
+[metro-4cantons-polytech]:{{ site.baseurl }}assets/images/maps/metro-4cantons-polytech.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
