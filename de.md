@@ -99,7 +99,7 @@ Steigen Sie (nach 12 Min.) an der Haltestelle » Cité Scientifique Pr Gabilla
 ## Lille Universität, <i class="icon-lille-metro"></i> Haltestelle » Cité Scientifique «
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="Plan von der U-Bahn bis zum Gebäude M2"}][metro-m2]
+[![metro-citesci-polytech]{:.map title="Plan von der U-Bahn bis zum Gebäude M2"}][metro-citesci-polytech]
 
 
 Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Cantons « (nach dem Süden) bis Sie links das große zylindrische Gebäude erreichen (die Universitätsbibliothek): Rechts können Sie das Gebäude M1 sehen, welches an der großen Radioantenne auf dem Dach leicht erkennbar ist.
@@ -107,7 +107,7 @@ Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Ca
 ## Lille Universität, <i class="icon-lille-metro"></i> Haltestelle » 4 Cantons «
 {: #lille-4cantons data-next="lille-l" }
 
-[![4cantons-m2]{:.map title="Plan, um von der Station 4 Cantons zum M2-Gebäude zu gelangen"}][4cantons-m2]
+[![metro-4cantons-polytech]{:.map title="Plan, um von der Station 4 Cantons zum M2-Gebäude zu gelangen"}][metro-4cantons-polytech]
 
 Gehen Sie entlang der U-Bahn (die an dieser Stelle oberirdisch verläuft) in Richtung Norden (zur Station "Cité Scientifique"),  bis Sie das Gebäude M1 auf Ihrer linken Seite sehen, erkennbar an der großen Funkantenne auf dem Dach, und das Gebäude M2 auf Ihrer rechten Seite.
 
@@ -138,7 +138,7 @@ Das Gebäude von Polytech Lille befindet sich etwa 100 Meter geradeaus, nachdem 
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
 [lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
-[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
-[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
+[metro-citesci-polytech]:{{ site.baseurl }}assets/images/maps/metro-citesci-polytech.png
+[metro-4cantons-polytech]:{{ site.baseurl }}assets/images/maps/metro-4cantons-polytech.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
 
