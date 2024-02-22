@@ -7,7 +7,7 @@ edit: bewerk deze pagina
 modified:
   text: Pagina laatst gewijzigd op
   format: "%d-%m-%Y"
-  date: 2016-02-28
+  date: 2024-02-22
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussel
