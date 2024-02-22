@@ -103,6 +103,13 @@ Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard
 
 Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante (« 4 Cantons ») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique (la bibliothèque universitaire) : vous devez apercevoir sur votre gauche le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit, et sur votre droite le bâtiment M2. 
 
+## Université de Lille, <i class="icon-lille-metro"></i> métro « 4 Cantons (terminus) »
+{: #lille-4cantons data-next="lille-l" }
+
+[![metro-4cantons-polytech]{:.map title="Plan pour venir de la station 4 Cantons à Polytech"}][metro-4cantons-polytech]
+
+Longer le métro (qui est aérien à cet endroit) en direction nord (vers la station « Cité Scientifique ») jusqu'à apercevoir sur votre gauche le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit. Les bâtiments M2 et M3 sont « derrière » le bâtiment M1, par rapport au métro.
+
 ## Polytech Lille
 {: #lille-l }
 
