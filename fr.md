@@ -99,7 +99,7 @@ Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard
 ## Université de Lille, <i class="icon-lille-metro"></i> métro « Cité Scientifique »
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
+[![metro-citesci-polytech]{:.map title="Plan pour venir du métro à Polytech"}][metro-citesci-polytech]
 
 Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante (« 4 Cantons ») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique (la bibliothèque universitaire) : vous devez apercevoir sur votre gauche le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit, et sur votre droite le bâtiment M2. 
 
@@ -130,6 +130,6 @@ Le bâtiment de l'école d'ingénieurs Polytech Lille se trouve à environ 100m 
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
 [lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
-[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
-[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
+[metro-citesci-polytech]:{{ site.baseurl }}assets/images/maps/metro-citesci-polytech.png
+[metro-4cantons-polytech]:{{ site.baseurl }}assets/images/maps/metro-4cantons-polytech.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
